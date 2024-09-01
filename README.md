@@ -1,2 +1,4 @@
 # LAB_TASK_1
-ASSEMBLY LANGUAGE PROGRAMMING | BSCS-403 | UBIT.
+-->Program to print a single character on screen.
+-->Program to print name with character.
+-->Program to input a character and print on screen.
